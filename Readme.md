@@ -5,7 +5,7 @@
 - se realizó un diagrama en UML para mostrar las relaciones entre las clases, el archivo se encuentra en el proyecto en PDF , se encuentra en la carpeta SRC
 
 # Interpretación del enunciado y aplicación:
-- 1) se interpreta  la clase  **Envasado**  como a todas sus instancias son productos comestibles,  ya que en el enunciado no lo especifica.
+- 1)se interpreta  la clase  **Envasado**  como a todas sus instancias son productos comestibles,  ya que en el enunciado no lo especifica.
 - se realiza una subclase  Abstracta  **ProductoComestible** que hereda de la superclase **Producto**  ya que  la clase Bebida y 
   Envasado compartían un atributo  ---> "importado:  boolean"  y además ambas son comestibles.
  
