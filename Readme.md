@@ -2,7 +2,7 @@
 - La organizacion del proyecto es por dominio
 
 # Diagrama UML:
-- se realizó un diagrama en UML para mostrar las relaciones entre las clases, el archivo se encuentra en el proyecto en PDF
+- se realizó un diagrama en UML para mostrar las relaciones entre las clases, el archivo se encuentra en el proyecto en PDF , se encuentra en la carpeta SRC
 
 # Interpretación del enunciado y aplicación:
 - 1) se interpreta  la clase  **Envasado**  como a todas sus instancias son productos comestibles,  ya que en el enunciado no lo especifica.
